@@ -1,0 +1,511 @@
+Age,Marital_Status,Income,Education,Car_Price,Car_Category,Gender,Retired_Level
+59,Married,84901,Associate's Degree,19270,Sedan,Female,Partially Retired
+33,Married,53502,Master's Degree,56568,Economy,Female,Partially Retired
+46,Single,50079,High School,41792,Luxury,Other,Not Retired
+60,Widowed,88778,Bachelor's Degree,63698,Luxury,Female,Partially Retired
+49,Divorced,27600,Bachelor's Degree,35804,Luxury,Male,Partially Retired
+40,Married,86349,High School,30773,Sedan,Other,Partially Retired
+68,Divorced,71433,PhD,67275,Luxury,Female,Partially Retired
+41,Married,74389,PhD,28366,Sedan,Female,Fully Retired
+22,Widowed,50428,PhD,72400,SUV,Female,Partially Retired
+18,Divorced,46203,High School,43660,Economy,Male,Partially Retired
+35,Widowed,89815,Master's Degree,31210,Economy,Male,Not Retired
+24,Married,64539,Master's Degree,30924,Luxury,Other,Fully Retired
+22,Divorced,76813,Associate's Degree,57085,Economy,Other,Not Retired
+29,Single,55709,Bachelor's Degree,34943,Luxury,Male,Partially Retired
+50,Single,69825,High School,17114,Sedan,Other,Not Retired
+34,Single,34603,Master's Degree,60939,Economy,Male,Fully Retired
+20,Widowed,44539,Bachelor's Degree,48313,Economy,Male,Partially Retired
+28,Widowed,26535,PhD,52849,Luxury,Female,Partially Retired
+57,Married,68536,High School,34355,SUV,Other,Partially Retired
+56,Married,33411,Bachelor's Degree,67077,SUV,Female,Partially Retired
+57,Divorced,44146,Master's Degree,51310,Sedan,Male,Fully Retired
+18,Divorced,71566,PhD,33218,Sedan,Other,Partially Retired
+27,Widowed,46920,Associate's Degree,29193,Sedan,Female,Not Retired
+29,Single,54487,Associate's Degree,32414,SUV,Male,Partially Retired
+62,Married,78602,Associate's Degree,38477,Economy,Male,Not Retired
+35,Married,66363,Master's Degree,33013,Economy,Female,Partially Retired
+54,Widowed,96687,High School,74424,Luxury,Female,Partially Retired
+59,Widowed,46118,Bachelor's Degree,47615,Luxury,Female,Fully Retired
+65,Married,47872,Master's Degree,63535,Economy,Other,Fully Retired
+23,Widowed,70652,Bachelor's Degree,25405,SUV,Other,Fully Retired
+59,Married,27992,Master's Degree,16674,SUV,Female,Not Retired
+66,Single,99182,PhD,29217,SUV,Female,Not Retired
+56,Married,47014,Master's Degree,29657,Luxury,Male,Not Retired
+54,Married,24641,Associate's Degree,28120,SUV,Other,Partially Retired
+22,Single,20383,High School,48283,Economy,Female,Partially Retired
+67,Single,66842,Bachelor's Degree,75057,Luxury,Other,Partially Retired
+29,Divorced,50766,PhD,70485,Luxury,Other,Partially Retired
+57,Single,45114,Associate's Degree,53504,Economy,Other,Fully Retired
+47,Widowed,25171,PhD,23908,SUV,Male,Partially Retired
+61,Divorced,21184,Bachelor's Degree,15195,Luxury,Female,Not Retired
+63,Single,36060,Master's Degree,24954,SUV,Female,Not Retired
+29,Single,54606,High School,39795,Economy,Female,Partially Retired
+60,Married,72319,Associate's Degree,75465,Sedan,Male,Fully Retired
+50,Married,24743,High School,44185,Sedan,Male,Fully Retired
+19,Widowed,98513,Bachelor's Degree,34208,SUV,Male,Fully Retired
+62,Single,37191,PhD,68350,SUV,Female,Fully Retired
+65,Married,43745,High School,19193,Sedan,Other,Partially Retired
+52,Widowed,54405,PhD,21507,SUV,Male,Fully Retired
+60,Divorced,62918,High School,72439,Sedan,Other,Fully Retired
+60,Single,41143,Bachelor's Degree,48437,Luxury,Male,Partially Retired
+62,Divorced,81708,PhD,22728,Economy,Male,Not Retired
+28,Single,53417,High School,36692,Luxury,Male,Partially Retired
+60,Single,22205,High School,27028,Economy,Female,Not Retired
+58,Single,95789,Bachelor's Degree,21509,SUV,Male,Partially Retired
+64,Single,77993,PhD,78693,Sedan,Female,Fully Retired
+57,Single,51812,High School,76390,SUV,Male,Fully Retired
+33,Widowed,70616,Associate's Degree,47412,SUV,Male,Fully Retired
+63,Married,25835,Bachelor's Degree,22248,Luxury,Other,Not Retired
+44,Divorced,83830,High School,24955,Economy,Male,Not Retired
+59,Single,25733,Bachelor's Degree,68336,Sedan,Male,Partially Retired
+58,Married,40584,Master's Degree,74693,Sedan,Other,Not Retired
+62,Single,28680,High School,51230,SUV,Male,Partially Retired
+66,Single,23938,Associate's Degree,58282,Luxury,Female,Partially Retired
+34,Divorced,25038,Master's Degree,61392,Economy,Male,Not Retired
+61,Single,92698,Bachelor's Degree,77113,Sedan,Female,Partially Retired
+46,Widowed,84141,PhD,76436,Sedan,Male,Fully Retired
+18,Divorced,21548,PhD,50336,SUV,Female,Not Retired
+62,Widowed,49897,Bachelor's Degree,64998,Economy,Male,Fully Retired
+20,Single,30670,PhD,44842,Sedan,Other,Partially Retired
+40,Married,75564,PhD,42113,Economy,Male,Not Retired
+42,Widowed,93974,Associate's Degree,56659,SUV,Female,Fully Retired
+62,Single,97603,Master's Degree,18623,SUV,Male,Partially Retired
+37,Widowed,48348,High School,33072,Luxury,Male,Not Retired
+48,Married,48843,Master's Degree,78372,Luxury,Male,Not Retired
+31,Married,76057,Bachelor's Degree,49313,Sedan,Female,Fully Retired
+25,Married,50352,Associate's Degree,30856,Economy,Female,Fully Retired
+37,Married,75766,Bachelor's Degree,59385,Sedan,Male,Partially Retired
+53,Single,61684,Master's Degree,23447,Sedan,Male,Partially Retired
+47,Single,46712,Associate's Degree,29769,Luxury,Male,Not Retired
+38,Married,32795,Associate's Degree,45049,Economy,Other,Not Retired
+26,Widowed,62810,Master's Degree,42186,SUV,Other,Partially Retired
+28,Married,47861,High School,19824,Economy,Male,Fully Retired
+59,Divorced,53572,Master's Degree,24615,Economy,Male,Fully Retired
+52,Single,72986,Associate's Degree,49030,Luxury,Male,Not Retired
+64,Divorced,87118,Associate's Degree,30527,Sedan,Male,Not Retired
+29,Widowed,58739,High School,74718,SUV,Other,Fully Retired
+26,Married,31298,High School,75221,Luxury,Female,Partially Retired
+39,Divorced,66175,Bachelor's Degree,31785,Luxury,Female,Not Retired
+22,Divorced,89632,Bachelor's Degree,72224,SUV,Female,Not Retired
+65,Married,42171,Associate's Degree,39687,Sedan,Male,Not Retired
+25,Divorced,54864,Bachelor's Degree,49241,Sedan,Other,Not Retired
+39,Divorced,86262,High School,21791,SUV,Female,Not Retired
+40,Single,98324,Bachelor's Degree,70572,Sedan,Other,Not Retired
+24,Married,44451,Bachelor's Degree,30016,Luxury,Male,Fully Retired
+37,Single,60700,Associate's Degree,28384,Luxury,Male,Fully Retired
+61,Single,60971,Master's Degree,28684,Economy,Female,Partially Retired
+24,Married,42684,Master's Degree,63256,Luxury,Male,Fully Retired
+50,Divorced,67400,PhD,62991,Economy,Female,Fully Retired
+55,Married,99049,PhD,61633,Sedan,Other,Partially Retired
+40,Married,35106,Associate's Degree,19994,Economy,Male,Not Retired
+59,Married,87022,Associate's Degree,34488,Sedan,Female,Fully Retired
+39,Married,34907,Master's Degree,33902,SUV,Female,Fully Retired
+29,Divorced,80404,Associate's Degree,17428,Sedan,Male,Partially Retired
+61,Single,81704,High School,52386,SUV,Other,Partially Retired
+21,Divorced,42754,Associate's Degree,17014,Sedan,Other,Fully Retired
+50,Widowed,64012,Bachelor's Degree,48672,Sedan,Other,Not Retired
+47,Single,51478,Associate's Degree,75437,Economy,Male,Not Retired
+39,Married,60038,Master's Degree,26895,Economy,Male,Partially Retired
+35,Divorced,79227,High School,62673,Economy,Other,Partially Retired
+23,Married,47376,PhD,79045,Luxury,Male,Not Retired
+65,Married,68058,High School,62427,Economy,Other,Fully Retired
+45,Married,61205,High School,50013,Sedan,Female,Fully Retired
+19,Divorced,85315,Bachelor's Degree,33715,Luxury,Female,Partially Retired
+51,Widowed,58218,High School,17266,Luxury,Other,Fully Retired
+58,Married,90961,Associate's Degree,77860,Economy,Male,Not Retired
+61,Single,99320,Master's Degree,42968,Luxury,Other,Fully Retired
+57,Widowed,98259,High School,29339,Sedan,Male,Partially Retired
+61,Married,58288,High School,79445,Sedan,Female,Partially Retired
+69,Divorced,20104,Associate's Degree,77891,SUV,Female,Partially Retired
+55,Widowed,55901,High School,16632,Sedan,Male,Fully Retired
+48,Divorced,33585,PhD,54464,Economy,Other,Not Retired
+36,Married,22626,High School,71340,SUV,Male,Fully Retired
+33,Single,68174,High School,24998,Luxury,Other,Fully Retired
+69,Married,32456,High School,18608,SUV,Other,Partially Retired
+63,Divorced,87281,PhD,42459,SUV,Female,Fully Retired
+58,Married,33479,PhD,36792,Sedan,Other,Fully Retired
+47,Married,30751,PhD,67553,Economy,Female,Partially Retired
+22,Widowed,24459,PhD,57310,SUV,Female,Partially Retired
+66,Divorced,64314,High School,43739,Sedan,Male,Not Retired
+60,Widowed,94516,Associate's Degree,31186,Sedan,Female,Fully Retired
+38,Divorced,49523,Master's Degree,67636,SUV,Female,Not Retired
+34,Divorced,54164,Master's Degree,20635,Economy,Female,Partially Retired
+39,Divorced,33959,High School,78951,Luxury,Other,Fully Retired
+20,Widowed,88127,Bachelor's Degree,38776,Luxury,Male,Not Retired
+38,Widowed,75492,Master's Degree,20542,Sedan,Other,Fully Retired
+63,Widowed,50875,PhD,19716,Luxury,Female,Fully Retired
+42,Single,41656,Bachelor's Degree,78324,SUV,Other,Partially Retired
+61,Married,86184,Associate's Degree,36493,Sedan,Female,Fully Retired
+38,Divorced,25850,Bachelor's Degree,62858,Economy,Male,Not Retired
+63,Divorced,60091,Associate's Degree,67933,Economy,Female,Partially Retired
+33,Married,32015,Bachelor's Degree,64153,Economy,Female,Fully Retired
+51,Single,82984,Master's Degree,24361,Economy,Female,Not Retired
+42,Divorced,27661,PhD,70486,Sedan,Other,Fully Retired
+42,Divorced,95200,Associate's Degree,72775,Economy,Female,Fully Retired
+58,Widowed,56847,Associate's Degree,45984,SUV,Female,Not Retired
+45,Single,73969,Bachelor's Degree,47073,Economy,Female,Not Retired
+21,Widowed,25836,PhD,64588,Economy,Female,Partially Retired
+37,Single,42032,High School,45605,Luxury,Female,Partially Retired
+30,Divorced,97560,Associate's Degree,54792,SUV,Female,Fully Retired
+68,Widowed,89963,PhD,76993,Economy,Other,Partially Retired
+62,Divorced,51311,High School,17072,Economy,Male,Fully Retired
+28,Divorced,46163,Associate's Degree,46295,SUV,Male,Partially Retired
+27,Widowed,79246,PhD,57948,Economy,Male,Fully Retired
+46,Married,41212,Associate's Degree,61151,Sedan,Male,Partially Retired
+64,Divorced,98908,Master's Degree,48861,Sedan,Other,Partially Retired
+49,Single,31794,PhD,39167,Economy,Female,Fully Retired
+41,Single,74425,Bachelor's Degree,58668,Sedan,Female,Not Retired
+31,Single,98745,Bachelor's Degree,59867,SUV,Other,Partially Retired
+23,Divorced,75044,High School,63577,Sedan,Male,Fully Retired
+63,Divorced,62890,Master's Degree,22369,Economy,Other,Fully Retired
+58,Widowed,80502,High School,52210,Economy,Other,Fully Retired
+25,Single,62659,Bachelor's Degree,25049,Economy,Male,Not Retired
+59,Married,66832,PhD,58176,Economy,Other,Not Retired
+64,Widowed,90533,Master's Degree,35848,SUV,Female,Partially Retired
+34,Divorced,44890,Associate's Degree,19454,Economy,Other,Fully Retired
+68,Widowed,93315,Associate's Degree,67142,SUV,Male,Not Retired
+57,Single,96264,PhD,39981,SUV,Male,Not Retired
+53,Married,31367,Bachelor's Degree,63460,Economy,Male,Not Retired
+60,Single,34731,High School,29406,Sedan,Other,Not Retired
+46,Divorced,64040,Bachelor's Degree,46136,Luxury,Male,Fully Retired
+35,Married,25146,PhD,68674,Sedan,Female,Partially Retired
+55,Married,31368,Bachelor's Degree,41452,Sedan,Male,Not Retired
+19,Divorced,20095,High School,51556,Economy,Female,Partially Retired
+35,Widowed,38394,High School,34798,Sedan,Other,Not Retired
+48,Divorced,53330,Master's Degree,18092,SUV,Male,Not Retired
+52,Divorced,21253,Master's Degree,27397,Sedan,Male,Partially Retired
+21,Widowed,76339,Master's Degree,45625,Luxury,Female,Partially Retired
+51,Married,46566,Bachelor's Degree,31288,SUV,Other,Fully Retired
+61,Single,53715,Associate's Degree,23969,Sedan,Female,Fully Retired
+43,Single,88235,Bachelor's Degree,59219,Luxury,Other,Fully Retired
+19,Single,23407,High School,72956,SUV,Female,Fully Retired
+52,Divorced,68437,Master's Degree,76439,Sedan,Female,Partially Retired
+67,Divorced,77476,PhD,71451,Sedan,Male,Partially Retired
+57,Single,33795,Associate's Degree,48513,Luxury,Female,Not Retired
+58,Divorced,54705,Bachelor's Degree,51415,Luxury,Other,Partially Retired
+36,Widowed,80794,Associate's Degree,70358,SUV,Female,Not Retired
+59,Divorced,48236,PhD,46112,Luxury,Other,Fully Retired
+39,Single,62752,Master's Degree,74676,Sedan,Female,Not Retired
+65,Single,40320,Master's Degree,77707,Sedan,Male,Fully Retired
+46,Divorced,46566,High School,54949,Luxury,Female,Not Retired
+19,Married,75011,Bachelor's Degree,53359,Luxury,Other,Fully Retired
+59,Divorced,60361,High School,45535,Luxury,Other,Partially Retired
+56,Married,21107,Associate's Degree,19478,Sedan,Male,Fully Retired
+30,Widowed,35995,PhD,20631,Luxury,Other,Fully Retired
+33,Widowed,38531,PhD,75019,Luxury,Male,Not Retired
+46,Married,43901,High School,74788,Economy,Female,Partially Retired
+43,Married,37111,High School,45594,Economy,Other,Not Retired
+68,Married,41273,Associate's Degree,24956,Sedan,Male,Partially Retired
+40,Married,29428,Master's Degree,56069,Luxury,Female,Partially Retired
+45,Widowed,28620,PhD,62693,Sedan,Female,Fully Retired
+31,Widowed,62454,High School,67503,Economy,Male,Fully Retired
+51,Divorced,94034,PhD,46614,Luxury,Male,Fully Retired
+32,Single,80405,Master's Degree,29567,SUV,Female,Not Retired
+26,Married,73903,PhD,73555,Sedan,Female,Not Retired
+22,Married,21535,Master's Degree,32657,Sedan,Male,Partially Retired
+64,Married,72506,Master's Degree,66318,Luxury,Male,Not Retired
+39,Divorced,46572,Bachelor's Degree,58209,SUV,Female,Fully Retired
+63,Single,71996,Associate's Degree,64383,SUV,Female,Not Retired
+46,Married,64928,PhD,53782,SUV,Other,Not Retired
+40,Married,34393,Master's Degree,66023,Luxury,Other,Partially Retired
+32,Divorced,75782,PhD,23203,Luxury,Male,Fully Retired
+18,Married,90157,High School,74401,Luxury,Male,Not Retired
+68,Single,81206,Associate's Degree,31190,Luxury,Female,Not Retired
+55,Single,78107,Associate's Degree,29913,Sedan,Female,Partially Retired
+68,Married,25371,High School,31602,SUV,Male,Partially Retired
+27,Divorced,77304,High School,24611,SUV,Male,Partially Retired
+51,Single,28794,PhD,71159,Economy,Male,Fully Retired
+58,Divorced,70750,Bachelor's Degree,63944,SUV,Male,Partially Retired
+58,Single,59762,PhD,38866,Sedan,Female,Not Retired
+69,Widowed,36172,PhD,53987,Sedan,Other,Not Retired
+25,Single,66659,Master's Degree,51993,Economy,Other,Fully Retired
+44,Married,59959,PhD,53009,Luxury,Male,Partially Retired
+47,Single,63913,Associate's Degree,45664,Sedan,Male,Fully Retired
+68,Married,66515,Bachelor's Degree,50737,Sedan,Other,Fully Retired
+35,Single,25637,High School,25232,Economy,Female,Fully Retired
+28,Single,24314,Associate's Degree,54198,SUV,Female,Fully Retired
+61,Single,58433,High School,79929,SUV,Male,Partially Retired
+51,Married,50849,Master's Degree,26500,Sedan,Male,Fully Retired
+19,Widowed,55903,PhD,16111,Luxury,Other,Fully Retired
+56,Single,74767,Master's Degree,69036,Economy,Male,Fully Retired
+37,Widowed,30986,High School,19913,SUV,Other,Not Retired
+47,Single,48876,PhD,20000,Sedan,Female,Partially Retired
+24,Divorced,72699,PhD,52184,SUV,Male,Fully Retired
+23,Divorced,64986,Master's Degree,53818,Sedan,Other,Not Retired
+22,Single,92067,High School,57654,SUV,Male,Partially Retired
+20,Married,70772,Bachelor's Degree,20990,SUV,Male,Fully Retired
+58,Divorced,74666,Master's Degree,30828,Sedan,Other,Partially Retired
+58,Married,90835,Associate's Degree,35645,SUV,Male,Partially Retired
+34,Single,50793,Associate's Degree,53678,Sedan,Other,Partially Retired
+25,Divorced,52909,Associate's Degree,17621,Economy,Male,Fully Retired
+58,Widowed,51569,High School,37826,SUV,Male,Fully Retired
+42,Married,91098,Associate's Degree,45000,Luxury,Male,Partially Retired
+41,Married,53069,Associate's Degree,43630,Economy,Other,Not Retired
+40,Divorced,34489,PhD,43777,Luxury,Male,Partially Retired
+59,Single,38880,PhD,29356,Sedan,Female,Fully Retired
+24,Single,36118,PhD,70211,Luxury,Other,Fully Retired
+32,Widowed,78612,High School,75807,SUV,Female,Fully Retired
+69,Divorced,81198,Associate's Degree,58713,Luxury,Female,Fully Retired
+57,Married,26359,Master's Degree,40720,Luxury,Other,Partially Retired
+42,Divorced,51686,Associate's Degree,56389,SUV,Other,Not Retired
+49,Widowed,77615,PhD,44214,SUV,Female,Partially Retired
+38,Divorced,33829,Associate's Degree,31012,Economy,Other,Fully Retired
+36,Divorced,87303,PhD,57437,SUV,Female,Partially Retired
+53,Widowed,28903,Associate's Degree,61904,SUV,Male,Not Retired
+50,Single,26077,High School,70445,Sedan,Other,Not Retired
+38,Single,81216,Bachelor's Degree,37725,SUV,Other,Partially Retired
+42,Married,55357,Bachelor's Degree,59048,SUV,Female,Not Retired
+50,Divorced,89535,Associate's Degree,32963,Economy,Female,Partially Retired
+45,Widowed,40943,Master's Degree,73750,Luxury,Female,Partially Retired
+62,Widowed,62699,Associate's Degree,15535,Luxury,Female,Not Retired
+54,Divorced,84491,Associate's Degree,57152,Economy,Female,Fully Retired
+36,Divorced,64447,Bachelor's Degree,47766,Luxury,Male,Partially Retired
+40,Widowed,35467,Associate's Degree,22589,SUV,Other,Not Retired
+52,Widowed,93830,Associate's Degree,77831,Luxury,Male,Partially Retired
+49,Divorced,38164,PhD,16968,Luxury,Male,Not Retired
+68,Single,60419,Associate's Degree,17855,Economy,Female,Not Retired
+36,Single,85214,PhD,20736,Luxury,Female,Partially Retired
+32,Married,31795,High School,38334,Luxury,Other,Partially Retired
+25,Married,88933,Master's Degree,43075,Luxury,Female,Partially Retired
+29,Widowed,92369,Associate's Degree,22162,SUV,Male,Fully Retired
+28,Divorced,22240,PhD,55624,SUV,Other,Fully Retired
+56,Married,24587,PhD,54808,SUV,Male,Partially Retired
+59,Divorced,39841,Associate's Degree,70433,Luxury,Male,Not Retired
+40,Single,73042,Bachelor's Degree,23956,Luxury,Male,Partially Retired
+18,Single,89301,Bachelor's Degree,41511,Luxury,Male,Not Retired
+52,Single,30810,Associate's Degree,75852,Luxury,Male,Not Retired
+35,Married,48622,Associate's Degree,24964,SUV,Male,Partially Retired
+60,Divorced,56724,Bachelor's Degree,77517,SUV,Male,Partially Retired
+24,Married,72921,Associate's Degree,60822,Luxury,Male,Partially Retired
+21,Widowed,70834,Associate's Degree,78876,Economy,Other,Partially Retired
+58,Divorced,87334,Bachelor's Degree,33076,Sedan,Male,Fully Retired
+45,Widowed,20171,PhD,26761,SUV,Female,Partially Retired
+30,Married,62737,High School,54971,SUV,Other,Partially Retired
+57,Single,57792,Associate's Degree,18604,SUV,Female,Not Retired
+39,Married,66872,Bachelor's Degree,34718,SUV,Male,Fully Retired
+43,Single,74664,Associate's Degree,45249,Luxury,Other,Not Retired
+18,Divorced,44834,Associate's Degree,40503,Economy,Other,Not Retired
+61,Single,35858,PhD,16241,SUV,Female,Not Retired
+52,Married,52796,High School,46568,Sedan,Other,Partially Retired
+19,Divorced,62232,Associate's Degree,77404,Luxury,Female,Fully Retired
+66,Married,88395,High School,50054,Luxury,Other,Not Retired
+61,Widowed,77185,Bachelor's Degree,67621,Sedan,Other,Not Retired
+55,Married,64916,Bachelor's Degree,29241,SUV,Male,Fully Retired
+64,Married,87597,Master's Degree,61225,SUV,Male,Not Retired
+61,Single,43073,PhD,15111,SUV,Male,Partially Retired
+43,Divorced,34090,Bachelor's Degree,41177,Sedan,Male,Not Retired
+41,Married,69021,Associate's Degree,48369,Economy,Female,Partially Retired
+60,Widowed,88429,Associate's Degree,57543,Economy,Other,Fully Retired
+69,Single,78739,Bachelor's Degree,21486,Economy,Other,Partially Retired
+22,Married,87358,Master's Degree,68802,Sedan,Male,Fully Retired
+25,Divorced,69216,PhD,74542,Sedan,Other,Fully Retired
+47,Single,82663,Master's Degree,45673,Economy,Male,Partially Retired
+19,Married,28830,High School,57819,SUV,Male,Not Retired
+41,Married,32127,PhD,57131,SUV,Other,Not Retired
+41,Single,63400,PhD,46534,Economy,Male,Not Retired
+42,Divorced,80739,Associate's Degree,18357,Economy,Female,Not Retired
+43,Widowed,50103,PhD,15758,Sedan,Male,Not Retired
+23,Divorced,29748,PhD,69596,Sedan,Male,Partially Retired
+40,Widowed,49382,Associate's Degree,16492,Luxury,Female,Fully Retired
+67,Divorced,73572,PhD,44037,Sedan,Male,Not Retired
+34,Single,58058,Master's Degree,58934,Luxury,Male,Fully Retired
+49,Widowed,53916,PhD,16708,Economy,Male,Not Retired
+66,Single,62223,Bachelor's Degree,49255,Economy,Female,Not Retired
+18,Married,59070,PhD,46649,SUV,Male,Not Retired
+68,Single,77140,PhD,39572,Luxury,Male,Partially Retired
+21,Widowed,99351,High School,39324,Sedan,Other,Fully Retired
+51,Married,87267,High School,17003,SUV,Female,Partially Retired
+49,Widowed,20490,Master's Degree,34365,SUV,Female,Fully Retired
+24,Widowed,74817,High School,58060,Luxury,Female,Not Retired
+18,Single,63006,Master's Degree,16344,SUV,Male,Not Retired
+26,Divorced,85821,High School,57513,Luxury,Female,Not Retired
+42,Divorced,70371,High School,77097,Luxury,Female,Partially Retired
+24,Single,67103,Associate's Degree,78473,Sedan,Male,Fully Retired
+29,Single,42631,Master's Degree,24639,Economy,Other,Fully Retired
+22,Divorced,77774,PhD,60672,Sedan,Female,Fully Retired
+55,Divorced,23307,High School,20394,Luxury,Female,Partially Retired
+25,Single,49069,Master's Degree,47133,Luxury,Female,Fully Retired
+43,Divorced,67520,PhD,31226,Sedan,Female,Fully Retired
+69,Single,42560,High School,76315,Sedan,Male,Partially Retired
+60,Single,86802,Bachelor's Degree,57298,SUV,Female,Partially Retired
+23,Single,22889,PhD,26776,SUV,Male,Fully Retired
+55,Single,41861,High School,70927,SUV,Male,Fully Retired
+22,Single,97164,High School,70843,Economy,Other,Partially Retired
+60,Single,26435,PhD,74673,Economy,Female,Partially Retired
+30,Married,87961,Master's Degree,66540,Economy,Female,Partially Retired
+34,Single,68931,Associate's Degree,18677,Economy,Female,Partially Retired
+23,Single,85186,High School,44121,Sedan,Other,Partially Retired
+31,Married,85989,Master's Degree,27174,Luxury,Female,Partially Retired
+29,Divorced,76084,Bachelor's Degree,39108,SUV,Male,Not Retired
+40,Single,23846,PhD,56702,SUV,Female,Fully Retired
+60,Single,98653,Master's Degree,72604,Luxury,Other,Fully Retired
+57,Married,40551,Master's Degree,39262,Sedan,Female,Fully Retired
+18,Divorced,71578,Master's Degree,45353,Luxury,Other,Partially Retired
+42,Single,22822,Associate's Degree,33653,Sedan,Female,Not Retired
+66,Single,97253,Associate's Degree,66645,Luxury,Other,Fully Retired
+45,Widowed,61629,Bachelor's Degree,78288,Luxury,Female,Not Retired
+48,Married,85071,High School,31257,SUV,Female,Not Retired
+42,Divorced,83623,Associate's Degree,50088,Luxury,Other,Partially Retired
+46,Divorced,72792,Associate's Degree,59226,SUV,Female,Fully Retired
+42,Divorced,89725,Associate's Degree,58598,Economy,Other,Not Retired
+48,Widowed,65268,Associate's Degree,51202,Economy,Female,Partially Retired
+64,Divorced,34994,Bachelor's Degree,15689,Sedan,Male,Fully Retired
+50,Married,82870,Master's Degree,47792,SUV,Other,Partially Retired
+64,Married,87029,PhD,79325,Luxury,Other,Not Retired
+53,Single,25678,PhD,70161,SUV,Female,Fully Retired
+40,Single,37407,Master's Degree,27693,Economy,Male,Fully Retired
+65,Married,66544,High School,16544,Economy,Other,Fully Retired
+26,Divorced,82349,Bachelor's Degree,40288,SUV,Male,Fully Retired
+21,Single,96347,Bachelor's Degree,61369,Sedan,Other,Fully Retired
+54,Single,20013,Associate's Degree,60125,Luxury,Female,Partially Retired
+32,Divorced,95169,Master's Degree,49400,Economy,Male,Fully Retired
+54,Single,71277,Associate's Degree,29325,SUV,Male,Partially Retired
+35,Married,84441,PhD,68504,Sedan,Other,Fully Retired
+37,Widowed,95989,PhD,36291,SUV,Male,Not Retired
+42,Widowed,38011,Master's Degree,25611,Luxury,Female,Partially Retired
+42,Married,97293,PhD,48030,Luxury,Male,Not Retired
+53,Single,53335,Bachelor's Degree,44070,Luxury,Male,Partially Retired
+68,Married,52479,Associate's Degree,44861,SUV,Female,Fully Retired
+19,Single,38918,Bachelor's Degree,24564,SUV,Male,Fully Retired
+30,Single,32754,Master's Degree,22632,Luxury,Male,Partially Retired
+38,Married,98427,Master's Degree,19405,Sedan,Female,Fully Retired
+25,Married,91421,PhD,57013,Sedan,Female,Partially Retired
+40,Married,65530,High School,31372,Luxury,Male,Partially Retired
+62,Widowed,33591,High School,27242,SUV,Female,Fully Retired
+33,Widowed,98612,Master's Degree,44533,SUV,Male,Fully Retired
+50,Single,93182,Bachelor's Degree,63760,Sedan,Other,Fully Retired
+51,Married,50666,Associate's Degree,58130,Luxury,Other,Partially Retired
+31,Divorced,73667,High School,32125,SUV,Male,Not Retired
+19,Single,30949,High School,23323,SUV,Male,Partially Retired
+21,Single,54198,Bachelor's Degree,30338,Sedan,Male,Partially Retired
+57,Widowed,51393,Master's Degree,59106,Economy,Female,Fully Retired
+54,Divorced,98720,PhD,61377,Luxury,Male,Fully Retired
+56,Divorced,51212,Bachelor's Degree,75839,Sedan,Female,Fully Retired
+45,Widowed,33485,Master's Degree,39672,Economy,Female,Not Retired
+52,Single,41634,Associate's Degree,64568,Economy,Male,Not Retired
+63,Widowed,88757,Master's Degree,79668,Sedan,Other,Partially Retired
+56,Divorced,62770,PhD,17318,Economy,Male,Partially Retired
+65,Widowed,45187,Master's Degree,75895,Luxury,Other,Partially Retired
+43,Married,73247,Master's Degree,67066,SUV,Female,Not Retired
+34,Married,73064,Bachelor's Degree,22998,Sedan,Other,Not Retired
+66,Single,27548,PhD,45525,Luxury,Male,Partially Retired
+68,Single,29265,PhD,22525,Economy,Other,Partially Retired
+27,Widowed,88927,High School,77691,Economy,Other,Fully Retired
+43,Married,43659,High School,16859,Sedan,Male,Not Retired
+18,Single,39328,Associate's Degree,67109,Sedan,Other,Partially Retired
+33,Married,69069,Associate's Degree,72234,SUV,Male,Partially Retired
+34,Widowed,61852,PhD,74729,Economy,Male,Not Retired
+60,Divorced,95574,Master's Degree,42965,Sedan,Other,Fully Retired
+54,Divorced,88390,High School,67514,Economy,Other,Fully Retired
+25,Divorced,58948,Associate's Degree,41210,Economy,Other,Not Retired
+41,Single,91779,PhD,62443,Economy,Other,Partially Retired
+67,Divorced,35465,Master's Degree,49290,Sedan,Other,Not Retired
+58,Married,73630,Bachelor's Degree,40028,Luxury,Male,Partially Retired
+56,Widowed,45114,Master's Degree,38115,SUV,Other,Not Retired
+63,Married,87374,High School,50733,Luxury,Male,Fully Retired
+55,Married,63026,Master's Degree,29467,Economy,Other,Partially Retired
+67,Widowed,20344,High School,37641,Sedan,Other,Partially Retired
+55,Widowed,27630,Bachelor's Degree,60090,Economy,Other,Fully Retired
+22,Married,78588,Master's Degree,70507,SUV,Other,Fully Retired
+52,Married,47177,Bachelor's Degree,24050,Economy,Female,Fully Retired
+40,Widowed,40778,High School,16736,SUV,Female,Partially Retired
+67,Divorced,98613,High School,46209,Sedan,Other,Fully Retired
+48,Married,87281,High School,34918,Sedan,Female,Fully Retired
+51,Widowed,61038,PhD,75323,Luxury,Female,Partially Retired
+45,Divorced,75161,High School,42340,Sedan,Male,Fully Retired
+25,Widowed,48758,Associate's Degree,75881,Economy,Female,Not Retired
+31,Married,24850,Master's Degree,31490,SUV,Male,Not Retired
+43,Single,45042,PhD,45679,Economy,Other,Not Retired
+55,Divorced,90027,Bachelor's Degree,72809,SUV,Other,Fully Retired
+49,Single,44856,Bachelor's Degree,65400,Sedan,Other,Partially Retired
+54,Divorced,93541,Associate's Degree,76617,Luxury,Female,Fully Retired
+67,Divorced,30475,Master's Degree,52387,Economy,Other,Not Retired
+65,Single,67622,Associate's Degree,37120,Sedan,Male,Fully Retired
+57,Married,53980,Master's Degree,39898,Luxury,Female,Fully Retired
+26,Married,41611,Bachelor's Degree,55688,Luxury,Female,Partially Retired
+36,Married,95148,Associate's Degree,64942,Sedan,Male,Not Retired
+38,Widowed,77893,Bachelor's Degree,70492,SUV,Female,Not Retired
+43,Married,83797,Master's Degree,75713,SUV,Female,Not Retired
+57,Widowed,41032,Associate's Degree,37314,SUV,Male,Fully Retired
+47,Divorced,97704,Associate's Degree,44583,Economy,Other,Not Retired
+20,Married,83776,PhD,50003,Sedan,Female,Fully Retired
+58,Divorced,47892,PhD,77780,Economy,Male,Not Retired
+68,Divorced,70425,Master's Degree,22505,SUV,Female,Partially Retired
+35,Widowed,72219,Master's Degree,22015,SUV,Male,Not Retired
+58,Divorced,56341,Associate's Degree,56165,SUV,Female,Not Retired
+57,Single,59282,PhD,35323,Sedan,Other,Partially Retired
+51,Single,26927,Master's Degree,46612,Sedan,Male,Fully Retired
+21,Married,57655,Associate's Degree,72201,Luxury,Other,Not Retired
+44,Widowed,53214,Master's Degree,28827,Luxury,Male,Not Retired
+65,Divorced,91734,High School,37010,Luxury,Female,Partially Retired
+42,Married,28145,PhD,32325,SUV,Female,Partially Retired
+67,Widowed,72567,Master's Degree,31025,Luxury,Female,Fully Retired
+48,Single,67725,Bachelor's Degree,52171,Sedan,Female,Partially Retired
+69,Widowed,37990,Associate's Degree,74292,Sedan,Male,Not Retired
+19,Single,97734,Associate's Degree,17386,Luxury,Male,Not Retired
+60,Widowed,83809,PhD,74500,Economy,Female,Fully Retired
+36,Widowed,81729,PhD,46455,Economy,Other,Partially Retired
+25,Single,61091,Associate's Degree,15919,Luxury,Female,Fully Retired
+61,Divorced,27290,Master's Degree,45318,SUV,Other,Partially Retired
+23,Single,44481,PhD,67490,SUV,Male,Not Retired
+58,Widowed,49187,PhD,41509,Luxury,Male,Not Retired
+55,Single,61293,Associate's Degree,18917,Sedan,Female,Fully Retired
+37,Married,33730,Associate's Degree,28837,Economy,Female,Partially Retired
+52,Married,45423,Master's Degree,53867,Economy,Female,Not Retired
+39,Married,88523,Associate's Degree,31193,SUV,Male,Not Retired
+54,Married,32769,High School,42651,Luxury,Female,Partially Retired
+42,Single,36297,Master's Degree,65316,Luxury,Female,Fully Retired
+48,Single,82025,Bachelor's Degree,38560,Economy,Other,Fully Retired
+19,Divorced,21532,Master's Degree,33419,Sedan,Male,Fully Retired
+18,Single,78686,High School,47522,Economy,Female,Fully Retired
+42,Married,50613,Bachelor's Degree,34325,Luxury,Other,Fully Retired
+63,Divorced,77547,Master's Degree,69022,Luxury,Other,Not Retired
+65,Divorced,33496,Associate's Degree,26060,Economy,Female,Partially Retired
+22,Widowed,43417,Bachelor's Degree,32823,SUV,Male,Fully Retired
+18,Single,21452,PhD,56847,Economy,Other,Not Retired
+54,Single,58594,Associate's Degree,75715,SUV,Male,Fully Retired
+68,Divorced,87680,Master's Degree,62071,SUV,Other,Fully Retired
+38,Widowed,99964,Associate's Degree,40237,Economy,Other,Not Retired
+22,Divorced,47210,Associate's Degree,31653,SUV,Male,Fully Retired
+23,Divorced,67459,Associate's Degree,71647,Sedan,Other,Partially Retired
+32,Single,83773,PhD,65477,Luxury,Female,Fully Retired
+40,Married,58077,Associate's Degree,15540,Luxury,Female,Not Retired
+33,Widowed,89099,PhD,45034,SUV,Other,Partially Retired
+37,Divorced,73289,Master's Degree,31285,SUV,Female,Not Retired
+30,Single,28895,High School,40917,Economy,Male,Fully Retired
+57,Widowed,90813,PhD,68658,Luxury,Male,Partially Retired
+50,Divorced,35713,Associate's Degree,48074,Luxury,Female,Not Retired
+48,Single,88643,PhD,41127,Economy,Female,Fully Retired
+38,Widowed,93450,Bachelor's Degree,39494,SUV,Female,Not Retired
+38,Single,87792,Master's Degree,30169,SUV,Male,Fully Retired
+23,Single,71284,Associate's Degree,40709,SUV,Other,Partially Retired
+28,Single,35393,Bachelor's Degree,45387,Luxury,Female,Fully Retired
+42,Divorced,24739,Bachelor's Degree,38321,Sedan,Female,Partially Retired
+29,Married,59263,PhD,69802,Economy,Male,Not Retired
+39,Divorced,97037,Bachelor's Degree,30349,Luxury,Other,Partially Retired
+24,Divorced,66180,Associate's Degree,58559,Sedan,Male,Not Retired
+19,Married,97144,Bachelor's Degree,63816,Economy,Female,Fully Retired
+31,Single,69854,Bachelor's Degree,31173,Luxury,Male,Fully Retired
+33,Married,52281,PhD,69166,Economy,Other,Partially Retired
+65,Divorced,82147,Associate's Degree,76979,Sedan,Male,Fully Retired
+61,Single,31903,High School,22627,Sedan,Male,Not Retired
+39,Divorced,22751,Master's Degree,30404,Economy,Other,Fully Retired
+21,Widowed,66056,High School,17726,Economy,Female,Fully Retired
+47,Single,32877,High School,55177,Luxury,Male,Not Retired
+27,Widowed,89226,Associate's Degree,29336,Luxury,Male,Partially Retired
+42,Divorced,67381,Associate's Degree,45345,Sedan,Other,Fully Retired
+54,Single,86728,Bachelor's Degree,23726,Luxury,Female,Fully Retired
+67,Divorced,70317,Master's Degree,43485,Sedan,Other,Fully Retired
+38,Widowed,81986,PhD,69909,Economy,Female,Fully Retired
+55,Single,82848,Associate's Degree,29231,Sedan,Female,Fully Retired
+64,Married,64076,Associate's Degree,46558,SUV,Male,Partially Retired
+37,Divorced,98567,Bachelor's Degree,43502,Economy,Female,Partially Retired
+58,Married,57691,Master's Degree,79471,Luxury,Female,Not Retired
+21,Single,61489,PhD,51673,Sedan,Male,Partially Retired
+55,Single,28544,Master's Degree,74319,SUV,Male,Not Retired
+21,Married,68965,Master's Degree,78671,Economy,Female,Partially Retired
+38,Single,69233,Bachelor's Degree,38450,Luxury,Female,Not Retired
+56,Widowed,28118,High School,36151,Economy,Female,Not Retired
+48,Single,27372,Associate's Degree,21035,Sedan,Other,Fully Retired
+51,Single,85577,High School,65109,SUV,Male,Not Retired
